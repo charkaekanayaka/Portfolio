@@ -1,0 +1,137 @@
+body{
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+  font-family: "Work Sans", Helvetica, sans-serif;
+
+}
+
+h1{
+  color: #75cfb8;
+  margin-top: 40px auto 2px auto;
+  font-family: "Work Sans", Helvetica, sans-serif;
+  font-size: 450%;
+  font-weight: 400
+
+}
+
+h2{
+
+  color: #bbdfc8;
+  font-family: "Work Sans", Helvetica, sans-serif;
+  font-size: 200%;
+  font-weight: 300
+}
+
+h3{
+color:#a3ddcb;
+font-family: "Work Sans", Helvetica, sans-serif;
+font-size: 120%;
+font-weight: 50;
+}
+p{
+font-family: "Work Sans", Helvetica, sans-serif;
+font-size: 115%;
+font-weight: 50;
+
+
+}
+
+.middle-12{
+    padding-right: 25%
+}
+
+.middle-13{
+    padding-left: 25%
+}
+
+
+.code-row img{
+  width:150px;
+  height:150px;
+  padding-left: 25%
+
+
+
+}
+
+.profile img{
+  width: 150px;
+  height: 150px;
+}
+.design-row img{
+  width: 150px;
+  height: 150px;
+  padding-right: 25%
+
+}
+.contact-me img{
+  width: 150px;
+  height: 150px;
+
+}
+
+.para{
+margin: 30px auto 40px auto;
+}
+
+hr {
+
+    border: 6px solid #5eaaa8;
+    border-style: dotted none none;
+    width: 4%;
+}
+.site-footer {
+  background: #dfdfdf;
+  height: 80px;
+  margin: 0;
+  padding:35px;
+  color: #ffffff;
+  font-size:0.85rem;
+}
+
+a{
+  color:#a3d2ca;
+  font-family: "Work Sans", Helvetica, sans-serif;
+  margin: 15px 20px;
+  text-decoration: none;
+  font-size: 1.43rem;
+
+}
+
+a:hover{
+  color:#373a40;
+}
+
+.copyright{
+  padding: 27px;
+}
+
+.btn {
+   background: #5eaaa8;
+   background-image: -webkit-gradient(to bottom, #5eaaa8, #007965);
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 10px;
+   border: solid #5eaaa8 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #5eaaa8 1px;
+   background: #007965;
+
+   background-image: -webkit-gradient(to bottom, #007965, #5eaaa8);
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   text-decoration: none;
+}
